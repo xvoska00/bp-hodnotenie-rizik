@@ -1,0 +1,104 @@
+{
+    "@fortawesome/fontawesome-svg-core@1.2.34": {
+        "licenses": "MIT",
+        "repository": "https://github.com/FortAwesome/Font-Awesome",
+        "licenseUrl": "https://github.com/FortAwesome/Font-Awesome/raw/master/LICENSE.txt",
+        "parents": "bakalarska_praca"
+    },
+    "@fortawesome/free-solid-svg-icons@5.15.2": {
+        "licenses": "(CC-BY-4.0 AND MIT)",
+        "repository": "https://github.com/FortAwesome/Font-Awesome",
+        "licenseUrl": "https://github.com/FortAwesome/Font-Awesome/raw/master/LICENSE.txt",
+        "parents": "bakalarska_praca"
+    },
+    "@fortawesome/react-fontawesome@0.1.14": {
+        "licenses": "MIT",
+        "repository": "https://github.com/FortAwesome/react-fontawesome",
+        "licenseUrl": "https://github.com/FortAwesome/react-fontawesome/raw/master/LICENSE.txt",
+        "parents": "bakalarska_praca"
+    },
+    "@testing-library/jest-dom@5.11.9": {
+        "licenses": "MIT",
+        "repository": "https://github.com/testing-library/jest-dom",
+        "licenseUrl": "https://github.com/testing-library/jest-dom/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "@testing-library/react@11.2.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/testing-library/react-testing-library",
+        "licenseUrl": "https://github.com/testing-library/react-testing-library/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "@testing-library/user-event@12.8.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/testing-library/user-event",
+        "licenseUrl": "https://github.com/testing-library/user-event/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "bootstrap@4.6.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/twbs/bootstrap",
+        "licenseUrl": "https://github.com/twbs/bootstrap/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "npm-license-crawler@0.2.1": {
+        "licenses": "BSD-3-Clause",
+        "repository": "http://github.com/mwittig/npm-license-crawler",
+        "licenseUrl": "http://github.com/mwittig/npm-license-crawler/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "react-bootstrap@1.5.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-bootstrap/react-bootstrap",
+        "licenseUrl": "https://github.com/react-bootstrap/react-bootstrap/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "react-dom@17.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "react-lodash@0.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/typicode/react-lodash",
+        "licenseUrl": "https://github.com/typicode/react-lodash/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "react-scripts@4.0.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/create-react-app",
+        "licenseUrl": "https://github.com/facebook/create-react-app/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "react-scroll@1.8.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/fisshy/react-scroll",
+        "licenseUrl": "https://github.com/fisshy/react-scroll",
+        "parents": "bakalarska_praca"
+    },
+    "react-scrollspy@3.4.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/makotot/react-scrollspy",
+        "licenseUrl": "https://github.com/makotot/react-scrollspy/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "react@17.0.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "startbootstrap-freelancer@6.0.6": {
+        "licenses": "MIT",
+        "repository": "https://github.com/StartBootstrap/startbootstrap-freelancer",
+        "licenseUrl": "https://github.com/StartBootstrap/startbootstrap-freelancer/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    },
+    "web-vitals@1.1.0": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/GoogleChrome/web-vitals",
+        "licenseUrl": "https://github.com/GoogleChrome/web-vitals/raw/master/LICENSE",
+        "parents": "bakalarska_praca"
+    }
+}

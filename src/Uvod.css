@@ -1,0 +1,22 @@
+.uvod-item {
+  cursor: pointer;
+  position: relative;
+  display: block;
+  max-width: 10rem;
+  max-height: 10rem;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.uvod-item .uvod-item-caption {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: all 0.2s ease-in-out;
+  opacity: 0;
+  background-color: rgba(26, 188, 156, 0.9);
+}
+
+.uvod-item .uvod-item-caption:hover {
+  opacity: 1;
+}

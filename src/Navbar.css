@@ -1,0 +1,14 @@
+#mainNav {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-weight: 700;
+}
+
+#mainNav .navbar-brand {
+  font-size: 1.75em;
+}
+
+#mainNav .navbar-nav > a.nav-link.active {
+  color: #fff;
+  background: #1abc9c;
+}
